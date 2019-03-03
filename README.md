@@ -64,10 +64,10 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 | --- | :---: | 
 | Lesson 0 | [Advanced API](curriculum/12-advanced-api/readme.md) || | |
 | Lesson 1 | [Inheritance](curriculum/13-inheritance-js/readme.md) ||  | |
-| Lesson 2 | [DOM & jQuery Continued](curriculum/08-dom-and-jquery2/readme.md) ||  | |
+| Lesson 2 | [Closures and this](curriculum/14-closures-and-this/readme.md) ||  | |
 | Lesson 3| [AJAX and APIs](curriculum/09-ajax-and-apis/readme.md) ||  |  |
-| Lesson 4 | [Asynchronous JS and Callbacks](curriculum/10-async-and-callbacks/readme.md) || |  |
-| Lesson 5 | [**Project 2 Lab:** API ](curriculum/11-in-class-lab) || |  |
+| Lesson 4 | []() || |  |
+| Lesson 5 | []() || |  |
 
 
 

@@ -18,9 +18,8 @@
 
 _After this lesson, students will be able to:_
 
-- Explain prototypal inheritance and its purpose.
-- Distinguish the difference between prototypal from classical inheritance.
-- Create and extend prototypes.
+- Explain inheritance and its purpose.
+- Create and extend classes.
 - Explain the difference literal and constructed objects.
 
 ### Preparation
@@ -30,14 +29,12 @@ _Before this lesson, students should already be able to:_
 - Write JavaScript functions.
 - Describe the difference between functions and methods in JavaScript.
 
->Note: Last class, we learned how to store and use anonymous functions in variables and write functions that take other functions as arguments. Check with students to make sure that everyone is comfortable with the materials covered in the last class.
-
 ---
 
 <a name = "opening"></a>
 ## Intro (10 min)
 
-> Prototype-based programming is a style of object-oriented programming in which behavior reuse (known as inheritance) is performed via a process of cloning existing objects that serve as prototypes. This model can also be known as prototypal, prototype-oriented, classless, or instance-based programming. Delegation is the language feature that supports prototype-based programming. - wikipedia
+> Class-based programming is a style of object-oriented programming in which behavior reuse (known as inheritance) is performed via a process of extending an existing class. This model can also be known as object-oriented programming. 
 
 As we develop more programs we run into the concept of DRY, short for _Don't Repeat Yourself_. With DRY, we begin practicing the declaration of variables whose values range from arrays to functions, all for the purpose of being able to refer to and reuse these already defined values. However, what do we do when we want to go beyond reusing a value which may just be a primitive or an object containing some key/value data? What if instead we want to clone an object that has _behaviors_ we seek to reuse?
 
