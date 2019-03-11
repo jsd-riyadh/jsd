@@ -73,10 +73,8 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 | --- | :---: | 
 | Lesson 0 | [Deploy APP](curriculum/16-ghpages-heroku/readme.md) || | |
 | Lesson 1 | [ReactJS - Firebase](curriculum/13-inheritance-js/readme.md) ||  | |
-| Lesson 2 | [Closures and this](curriculum/14-closures-and-this/readme.md) ||  | |
-| Lesson 3| [AJAX and APIs](curriculum/09-ajax-and-apis/readme.md) ||  |  |
-| Lesson 4 | []() || |  |
-| Lesson 5 | []() || |  |
+| Lesson 2 | [project 3](readme.md) ||  | |
+
 
 
 
