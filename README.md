@@ -84,13 +84,13 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 |---  | ---     | ---     |---      |---             |  
 |1    | [Saleh Almozaei](https://github.com/almozaai) |  |  | |
 |2    | [Abdullah Alfawzan](https://github.com/Fawzan91) |  |  | |
-|3    | [Faisal alowaisi](https://github.com/faisal3397) | | | |
+|3    | [Faisal alowaisi](https://github.com/faisal3397) | | | https://faisal3397.github.io/WhatShallWeCook/|
 |4    | [Ahmad Sharef](https://github.com/faifiahmad) | | | |
 |5    | [Sultan Aldawish](https://github.com/SultanBandar) | | | |
 |6    | [Wafa AlDamegh](https://github.com/waldamegh) | | | |
 |7    | [Hana Almuhaya](https://github.com/Hnoi232) | | | |
 |8    | [Duaa Alshahrani](https://github.com/DuaaMohd) | | | |
-|9    | [Mohammed Alamri](https://github.com/Mohammed-ALAmri)  | |  | |
+|9    | [Mohammed Alamri](https://github.com/Mohammed-ALAmri)  | |  | https://mohammed-alamri.github.io/My-Movie-List/index.html|
 |10    | [Badr Alnassar](https://github.com/BadrAlnassar) |  | |  |
 |11    | [Adel Alkhaibari](https://github.com/adel711) |  | |  |
 |12    | [Ghada Bin Farhan](https://github.com/GAlfarhan) |  | |  |
