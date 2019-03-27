@@ -80,33 +80,33 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 
 #### Students
 
-| No. | Student |Project 1 Repo | Project 2 Repo | Final Project
-|---  | ---     | ---     |---      |---             |  
-|1    | [Saleh Almozaei](https://github.com/almozaai) |  |  | [Final](https://almozaai.github.io/project3/) |
-|2    | [Abdullah Alfawzan](https://github.com/Fawzan91) |  |  | |
-|3    | [Faisal alowaisi](https://github.com/faisal3397) | | | [Final](https://faisal3397.github.io/WhatShallWeCook/)|
-|4    | [Ahmad Sharef](https://github.com/faifiahmad) | | | |
-|5    | [Sultan Aldawish](https://github.com/SultanBandar) | | | |
-|6    | [Wafa AlDamegh](https://github.com/waldamegh) | | | |
-|7    | [Hana Almuhaya](https://github.com/Hnoi232) | | | |
-|8    | [Duaa Alshahrani](https://github.com/DuaaMohd) | | | |
-|9    | [Mohammed Alamri](https://github.com/Mohammed-ALAmri)  | |  |[Final](https://mohammed-alamri.github.io/My-Movie-List/index.html)|
-|10    | [Badr Alnassar](https://github.com/BadrAlnassar) |  | |  |
-|11    | [Adel Alkhaibari](https://github.com/adel711) |  | |  |
-|12    | [Ghada Bin Farhan](https://github.com/GAlfarhan) |  | |  |
-|13    | [Leena Alabdulkareem](https://github.com/leenaAlabdulkareem) |  | |  |
-|14    | [Muneera AlFaadhel](https://github.com/MuneeraAlFaadhel) |  | |  [Final](https://muneera.herokuapp.com/index.html) |
-|15    | [Sara Alabdullatif](https://github.com/AlabdullatifSara) |  | | [Final](https://alabdullatifsara.github.io/SaraAlabdullatif-BookWorld-Project3-/) |
-|16    | [Ali Alsaeed](https://github.com/AliAlsaeed) |  | |  |
-|17    | [Nourah Alrumaih](https://github.com/lnoura) |  | |  |
-|18    | [Mohammed alhakbani](https://github.com/Malhakbani) |  | | [Final](https://movie-deta.herokuapp.com/) |
-|19    | [Abdulkarim Onayq](https://github.com/kionayq) |  | |  |
-|20    | [Bader Abanmi](https://github.com/isbader95) |  | |  |
-|21    | [Mohammed Albulayhi](https://github.com/mxbleahy) |  | | [Final](http://onehour-ga.s3-website.eu-west-2.amazonaws.com) |
-|22    | [Ghada Aljurbua](https://github.com/Ghadaj) |  | |[final](https://project3ga.herokuapp.com/index.html)  |
-|23    | []() |  | |  |
-|24    | []() |  | |  |
-|25    | []() |  | |  |
+| No. | Student | Final Project |
+|---  | ---     | ---      |  
+|1    | [Saleh Almozaei](https://github.com/almozaai) | [Final](https://almozaai.github.io/project3/) |
+|2    | [Abdullah Alfawzan](https://github.com/Fawzan91) |  [final]()|
+|3    | [Faisal alowaisi](https://github.com/faisal3397) | [Final](https://faisal3397.github.io/WhatShallWeCook/)|
+|4    | [Ahmad Sharef](https://github.com/faifiahmad) |  [final]()|
+|5    | [Sultan Aldawish](https://github.com/SultanBandar) | [final]()|
+|6    | [Wafa AlDamegh](https://github.com/waldamegh) |  [final]()|
+|7    | [Hana Almuhaya](https://github.com/Hnoi232) | [final]()|
+|8    | [Duaa Alshahrani](https://github.com/DuaaMohd) | [final]()|
+|9    | [Mohammed Alamri](https://github.com/Mohammed-ALAmri)  |[Final](https://mohammed-alamri.github.io/My-Movie-List/index.html)|
+|10    | [Badr Alnassar](https://github.com/BadrAlnassar) |  [final]()|
+|11    | [Adel Alkhaibari](https://github.com/adel711) | [final]()|
+|12    | [Ghada Bin Farhan](https://github.com/GAlfarhan) | [final]() |
+|13    | [Leena Alabdulkareem](https://github.com/leenaAlabdulkareem) |  [final]()|
+|14    | [Muneera AlFaadhel](https://github.com/MuneeraAlFaadhel) |  [Final](https://muneera.herokuapp.com/index.html) |
+|15    | [Sara Alabdullatif](https://github.com/AlabdullatifSara) | [Final](https://alabdullatifsara.github.io/SaraAlabdullatif-BookWorld-Project3-/) |
+|16    | [Ali Alsaeed](https://github.com/AliAlsaeed) | [final]()|
+|17    | [Nourah Alrumaih](https://github.com/lnoura) |  [final]()|
+|18    | [Mohammed alhakbani](https://github.com/Malhakbani) | [Final](https://movie-deta.herokuapp.com/) |
+|19    | [Abdulkarim Onayq](https://github.com/kionayq) |  [final]() |
+|20    | [Bader Abanmi](https://github.com/isbader95) |  [final]() |
+|21    | [Mohammed Albulayhi](https://github.com/mxbleahy) | [Final](http://onehour-ga.s3-website.eu-west-2.amazonaws.com) |
+|22    | [Ghada Aljurbua](https://github.com/Ghadaj) |[final](https://project3ga.herokuapp.com/index.html)  |
+|23    | []() | [final]() |
+|24    | []() | [final]() |
+|25    | []() | [final]()  |
 |26    | []() |  | |  |
 |27    | []() |  | |  |
 |28    | []() |  | |  |
