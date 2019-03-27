@@ -107,7 +107,7 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 |23    | [Shahad Almouh]() | [Notes](https://shahadnote2.herokuapp.com/index.html) |
 |24    | [Karim Ibrahim]() | [Booking System](https://kionayq.github.io/project3/) |
 |25    | [Babder Alshammari]() | [final]()  |
-|26    | []() |  | |  |
+|26    | [Lamia Alho]() |  | |  |
 |27    | []() |  | |  |
 |28    | []() |  | |  |
 |29    | []() |  | |  |
