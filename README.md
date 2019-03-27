@@ -82,7 +82,7 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 
 | No. | Student | Final Project |
 |---  | ---     | ---      |  
-|1    | [Saleh Almozaei](https://github.com/almozaai) | [Final](https://almozaai.github.io/project3/) |
+|1    | [Saleh Almozaei](https://github.com/almozaai) | [Memory App](https://almozaai.github.io/project3/) |
 |2    | [Abdullah Alfawzan](https://github.com/Fawzan91) |  [final]()|
 |3    | [Faisal alowaisi](https://github.com/faisal3397) | [What Shall We Cook](https://faisal3397.github.io/WhatShallWeCook/)|
 |4    | [Ahmad Sharef](https://github.com/faifiahmad) |  [final]()|
@@ -90,13 +90,13 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 |6    | [Wafa AlDamegh](https://github.com/waldamegh) |  [final]()|
 |7    | [Hana Almuhaya](https://github.com/Hnoi232) | [final]()|
 |8    | [Duaa Alshahrani](https://github.com/DuaaMohd) | [final]()|
-|9    | [Mohammed Alamri](https://github.com/Mohammed-ALAmri)  |[Final](https://mohammed-alamri.github.io/My-Movie-List/index.html)|
+|9    | [Mohammed Alamri](https://github.com/Mohammed-ALAmri)  |[Movie Favorites](https://mohammed-alamri.github.io/My-Movie-List/index.html)|
 |10    | [Badr Alnassar](https://github.com/BadrAlnassar) |  [final]()|
 |11    | [Adel Alkhaibari](https://github.com/adel711) | [final]()|
-|12    | [Ghada Bin Farhan](https://github.com/GAlfarhan) | [final](https://galfarhan.github.io/GhadaP3/) |
+|12    | [Ghada Bin Farhan](https://github.com/GAlfarhan) | [Bucket List Map](https://galfarhan.github.io/GhadaP3/) |
 |13    | [Leena Alabdulkareem](https://github.com/leenaAlabdulkareem) |  [final]()|
-|14    | [Muneera AlFaadhel](https://github.com/MuneeraAlFaadhel) |  [Final](https://muneera.herokuapp.com/index.html) |
-|15    | [Sara Alabdullatif](https://github.com/AlabdullatifSara) | [Final](https://alabdullatifsara.github.io/SaraAlabdullatif-BookWorld-Project3-/) |
+|14    | [Muneera AlFaadhel](https://github.com/MuneeraAlFaadhel) |  [Bill Tracker](https://muneera.herokuapp.com/index.html) |
+|15    | [Sara Alabdullatif](https://github.com/AlabdullatifSara) | [Book World](https://alabdullatifsara.github.io/SaraAlabdullatif-BookWorld-Project3-/) |
 |16    | [Ali Alsaeed](https://github.com/AliAlsaeed) | [final]()|
 |17    | [Nourah Alrumaih](https://github.com/lnoura) |  [final]()|
 |18    | [Mohammed alhakbani](https://github.com/Malhakbani) | [Movies App](https://movie-deta.herokuapp.com/) |
