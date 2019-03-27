@@ -89,7 +89,7 @@ General Assembly's JavaScript Development course is made up of 20 lessons that a
 |5    | [Sultan Aldawish](https://github.com/SultanBandar) | [final]()|
 |6    | [Wafa AlDamegh](https://github.com/waldamegh) |  [final]()|
 |7    | [Hana Almuhaya](https://github.com/Hnoi232) | [final]()|
-|8    | [Duaa Alshahrani](https://github.com/DuaaMohd) | [final]()|
+|8    | [Duaa Alshahrani](https://github.com/DuaaMohd) | [Favourite List](https://duaamohd.github.io/FinalProject/project3/)|
 |9    | [Mohammed Alamri](https://github.com/Mohammed-ALAmri)  |[Movie Favorites](https://mohammed-alamri.github.io/My-Movie-List/index.html)|
 |10    | [Badr Alnassar](https://github.com/BadrAlnassar) |  [final]()|
 |11    | [Adel Alkhaibari](https://github.com/adel711) | [final]()|
